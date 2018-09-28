@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+;Logo = 96x96 Pixel! nicht größer
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Logo"="c:\windows\system32\logo.bmp"
+"Manufacturer"="d4kine"
+"SupportHours"="24x7"
+"SupportPhone"=""
+"SupportURL"=""

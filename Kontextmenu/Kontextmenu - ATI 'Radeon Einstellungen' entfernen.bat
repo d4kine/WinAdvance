@@ -1,0 +1,1 @@
+reg delete "HKCR\Directory\Background\shellex\ContextMenuHandlers\ACE" /f

@@ -1,0 +1,7 @@
+# (Package chere vorher installieren)
+
+# Hinzufügen:
+chere -i -t mintty
+
+# löschen:
+chere -u

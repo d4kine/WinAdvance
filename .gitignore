@@ -1,0 +1,6 @@
+*.log
+*.tmp
+*.swp
+Desktop.ini
+Thumbs.db
+z_*/

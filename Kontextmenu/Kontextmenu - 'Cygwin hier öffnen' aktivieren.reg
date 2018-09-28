@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\cygwin64_bash]
+@="Cygwin hier öffnen"
+"Icon"=""D:\\Programme\\cygwin\\Cygwin.ico""
+"Extended"=""
+
+; für D:\Programme\Cygwin
+[HKEY_CLASSES_ROOT\Directory\Background\shell\cygwin64_bash\command]
+@=hex(2):44,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,6d,00,65,\
+  00,5c,00,63,00,79,00,67,00,77,00,69,00,6e,00,5c,00,62,00,69,00,6e,00,5c,00,\
+  6d,00,69,00,6e,00,74,00,74,00,79,00,2e,00,65,00,78,00,65,00,20,00,2d,00,65,\
+  00,20,00,2f,00,62,00,69,00,6e,00,2f,00,78,00,68,00,65,00,72,00,65,00,20,00,\
+  2f,00,62,00,69,00,6e,00,2f,00,62,00,61,00,73,00,68,00,2e,00,65,00,78,00,65,\
+  00,20,00,22,00,25,00,56,00,22,00,00,00

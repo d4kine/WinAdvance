@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\DropboxExt]
+[-HKEY_CLASSES_ROOT\CLSID\{FB314ED9-A251-47B7-93E1-CDD82E34AF8B}]
+[-HKEY_CLASSES_ROOT\CLSID\{FB314EDB-A251-47B7-93E1-CDD82E34AF8B}]
+[-HKEY_CLASSES_ROOT\CLSID\{FB314EDC-A251-47B7-93E1-CDD82E34AF8B}]
+[-HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\DropboxExt]
+[-HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\DropboxExt]
+[-HKEY_CLASSES_ROOT\lnkfile\shellex\ContextMenuHandlers\DropboxExt]
+[-HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{FB314ED9-A251-47B7-93E1-CDD82E34AF8B}]
+[-HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{FB314EDA-A251-47B7-93E1-CDD82E34AF8B}]
+[-HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{FB314EDB-A251-47B7-93E1-CDD82E34AF8B}]
+[-HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{FB314EDC-A251-47B7-93E1-CDD82E34AF8B}]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\DropboxExt1]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\DropboxExt2]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\DropboxExt3]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\DropboxExt4]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\DropboxExt1]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\DropboxExt2]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\DropboxExt3]

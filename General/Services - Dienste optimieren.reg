@@ -1,0 +1,41 @@
+Windows Registry Editor Version 5.00
+
+;*** 2 = Automatisch starten
+;*** 3 = Manuell starten
+;*** 4 = Deaktiviert
+
+;*** Windows Update 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv]
+"Start"=dword:00000002 
+ 
+;*** Fehlerberichterstattung 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ERSvc] 
+"Start"=dword:00000004 
+ 
+;*** Firewall 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SharedAccess] 
+"Start"=dword:00000002
+ 
+;*** Sicherheitscenter 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wscsvc] 
+"Start"=dword:00000002
+
+;*** Adobe ARM Update Service
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\AdobeARMservice]
+"Start"=dword:00000004
+
+;*** Superfetch
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SysMain]
+"Start"=dword:00000004
+
+;*** Volumenschattenkopie
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\VSS]
+"Start"=dword:00000003
+
+;*** Tablet Input Service (Stift und Freihandeingaben)
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\TabletInputService]
+"Start"=dword:00000004
+
+;*** Windows Search
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\WSearch]
+"Start"=dword:00000004
